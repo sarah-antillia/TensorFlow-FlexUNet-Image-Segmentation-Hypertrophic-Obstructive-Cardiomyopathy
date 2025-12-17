@@ -1,5 +1,8 @@
-<h2>TensorFlow-FlexUNet-Image-Segmentation-Hypertrophic-Obstructive-Cardiomyopathy (2025/12/17)</h2>
-
+<h2>TensorFlow-FlexUNet-Image-Segmentation-Hypertrophic-Obstructive-Cardiomyopathy (Updated: 2025/12/17)</h2>
+<li>
+2025/12/17: Updated color-class-mapping table in README.md.
+</li>
+<br>
 Toshiyuki Arai<br>
 Software Laboratory antillia.com<br>
 <br>
@@ -141,12 +144,13 @@ indexed color and rgb colors in <a href="./projects/TensorFlowFlexUNet/HOCMvalve
 <a id="color-class-mapping-table">Color-class-mapping-table</a></b><br>    
 <table border=1 style='border-collapse:collapse;' cellpadding='5'>
 <tr><th>Indexed Color</th><th>Color</th><th>RGB</th><th>Class</th></tr>
-<tr><td>1</td><td with='80' height='auto'><img src='./color_class_mapping/AV.png' widith='40' height='25'></td><td>(255, 0, 255)</td><td>AV</td></tr>
-<tr><td>2</td><td with='80' height='auto'><img src='./color_class_mapping/AD.png' widith='40' height='25'></td><td>(0, 0, 255)</td><td>AD</td></tr>
-<tr><td>3</td><td with='80' height='auto'><img src='./color_class_mapping/LA.png' widith='40' height='25'></td><td>(0, 255, 0)</td><td>LA</td></tr>
-<tr><td>4</td><td with='80' height='auto'><img src='./color_class_mapping/LV.png' widith='40' height='25'></td><td>(255, 255, 0)</td><td>LV</td></tr>
-<tr><td>5</td><td with='80' height='auto'><img src='./color_class_mapping/Myocardium.png' widith='40' height='25'></td><td>(255, 0, 0)</td><td>Myocardium</td></tr>
-<tr><td>6</td><td with='80' height='auto'><img src='./color_class_mapping/Excised-myocardium.png' widith='40' height='25'></td><td>(110, 110, 110)</td><td>Excised-myocardium</td></tr>
+<tr><td>1</td><td with='80' height='auto'><img src='./color_class_mapping/AV.png' widith='40' height='25'</td><td>(255, 0, 255)</td><td>AV</td></tr>
+<tr><td>2</td><td with='80' height='auto'><img src='./color_class_mapping/MV.png' widith='40' height='25'</td><td>(0, 255, 255)</td><td>MV</td></tr>
+<tr><td>3</td><td with='80' height='auto'><img src='./color_class_mapping/AD.png' widith='40' height='25'</td><td>(0, 0, 255)</td><td>AD</td></tr>
+<tr><td>4</td><td with='80' height='auto'><img src='./color_class_mapping/LA.png' widith='40' height='25'</td><td>(0, 255, 0)</td><td>LA</td></tr>
+<tr><td>5</td><td with='80' height='auto'><img src='./color_class_mapping/LV.png' widith='40' height='25'</td><td>(255, 255, 0)</td><td>LV</td></tr>
+<tr><td>6</td><td with='80' height='auto'><img src='./color_class_mapping/Myocardium.png' widith='40' height='25'</td><td>(255, 0, 0)</td><td>Myocardium</td></tr>
+<tr><td>7</td><td with='80' height='auto'><img src='./color_class_mapping/Excised-myocardium.png' widith='40' height='25'</td><td>(110, 110, 110)</td><td>Excised-myocardium</td></tr>
 </table>
 <br>
 <br>
