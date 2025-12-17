@@ -15,8 +15,6 @@ which was derived by us from <br><br>
 </a> 
 <b>Segmentation-of-Aortic-and-Mitral-Valves-for-Heart-Surgical-Planning-of-HOCM
 </b>
-
-<br>
 <br>
 <hr>
 <b>Actual Image Segmentation for HOCMvalves Images of 512x512 pixels</b><br>
@@ -79,7 +77,6 @@ depicting the division of a heart into 26 different regions based on the Syntax 
  with annotated regions containing atherosclerotic plaques. <br>
 <br> This dataset, carefully annotated by medical experts, enables scientists to actively contribute 
  towards the advancement of an automated risk assessment system for patients with CAD. 
-
 <br><br>
 This related paper is at 
 <a href="https://proceedings.mlr.press/v222/zheng24a/zheng24a.pdf">
@@ -192,7 +189,6 @@ base_kernels   = (11,11)
 num_layers     = 8
 dropout_rate   = 0.05
 dilation       = (1,1)
-
 </pre>
 
 <b>Learning rate</b><br>
